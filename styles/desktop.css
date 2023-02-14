@@ -1,5 +1,12 @@
 @media screen and (min-width: 768px) {
     
+    .rating {
+        display: grid;
+        place-content: center;
+        min-height: 100vh;
+        font-family: 'Overpass', sans-serif;
+    }
+    
     .master-div {
         width: 25rem;
         height: 25rem;
