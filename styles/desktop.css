@@ -1,0 +1,61 @@
+@media screen and (min-width: 768px) {
+    
+    .master-div {
+        width: 25rem;
+        height: 25rem;
+    }
+
+    .star-img-div {
+        width: 3rem;
+        height: 3rem;
+        display: flex;
+        justify-content: center;
+        margin-top: 2.5rem;
+        margin-left: 2.5rem;
+    }
+
+    .star-img {
+        width: 1.2rem;
+        height: 1.2rem;
+        margin-top: 0.8rem;
+    }
+
+    .main-heading-div {
+        font-size: large;
+        margin-left: 2.5rem;
+    }
+
+    .main-page-heading {
+        margin-bottom: 0px;
+    }
+
+    .para-div {
+        font-size: 14px;
+        margin-left: 2.5rem;
+        width: 20rem;
+        line-height: 1.6;
+     }
+     
+     .rating-button-main-div {
+         margin-top: 2rem;
+         margin-left: 1.7rem;
+     }
+     
+     .btn {
+         width: 3rem;
+         height: 3rem;
+         border-radius: 100%;
+         margin-left: 1rem;
+         border: 0px;
+     }
+     
+     .submit-btn {
+         width: 20rem;
+         height: 2.8rem;
+         margin-top: 1.5rem;
+         margin-left: 2.5rem;
+         border-radius: 50px;
+         font-weight: bold;
+         letter-spacing: 0.1rem;
+     }
+}

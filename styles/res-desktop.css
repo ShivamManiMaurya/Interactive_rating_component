@@ -1,0 +1,34 @@
+@media screen and (min-width: 768px) {
+
+    
+    .res-master-div {
+        width: 25rem;
+        height: 25rem;
+    }
+    
+    .res-img-div {
+        margin-top: 3rem;
+        margin-bottom: 1.7rem;
+    }
+    
+    .rating-div {
+        width: 12rem;
+        height: 2rem;
+    }
+    
+    .rating-para {
+        padding-top: 0.4rem;
+    }
+    
+    .res-heading-div {
+        font-size: 14px;
+        margin-top: 2rem;
+    }
+    
+    .res-para-div {
+        margin-left: 3rem;
+        width: 20rem;
+        font-size: 14px;
+    }
+
+}
