@@ -2,10 +2,8 @@
 
     .thanks {
         display: none;
-        place-content: center;
         min-height: 100vh;
         font-family: 'Overpass', sans-serif;
-        text-align: center;
     }
     
     .res-master-div {
