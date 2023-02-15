@@ -1,6 +1,6 @@
-body {
+.thanks {
     background-color: hsl(216, 12%, 8%);
-    display: grid;
+    display: none;
     place-content: center;
     min-height: 100vh;
     font-family: 'Overpass', sans-serif;
